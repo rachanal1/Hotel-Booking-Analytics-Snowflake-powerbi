@@ -163,4 +163,5 @@ hotel-booking-analytics-snowflake-powerbi
 
 # Note:
 *Snowflake's legacy dashboard functionality is no longer available. In this project, **Snowflake** was used for data ingestion, SQL transformations, and data warehousing, while **Power BI** was used as the business intelligence layer to create interactive dashboards and reports.
+
 *Snowflake also supports **Streamlit in Snowflake**, which allows developers to build interactive data applications and dashboards using Python. However, **Power BI** was selected for this project to demonstrate a commonly used industry architecture where Snowflake serves as the data warehouse and Power BI provides visualization and reporting capabilities.
